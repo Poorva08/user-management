@@ -1,0 +1,5 @@
+usermanagement\controller\UserController.class
+usermanagement\service\UserService.class
+usermanagement\UserManagementApplication.class
+usermanagement\model\User.class
+usermanagement\repository\UserRepository.class
