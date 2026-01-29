@@ -7,7 +7,7 @@ import usermanagement.repository.UserRepository;
 import java.util.List;
 
 @Service
-public class UserService 
+public class UserService {
 
     private final UserRepository repo;
 
